@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=200&section=header&text=Team%20Gamma%20Devs&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Student%20Developers%20%7C%20Building%20Innovative%20Projects&descSize=20&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=200&section=header&text=Team%20Gamma%20Devs&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Building%20Innovative%20Projects&descSize=20&descAlignY=55" />
 
 ### A Developer Association from Uruguay 🇺🇾
 
@@ -13,7 +13,7 @@
 
 ## Who We Are
 
-**Team Gamma Devs** is a student-led developer association based in Uruguay. We're a group of passionate students dedicated to improving our programming skills through hands-on, innovative projects. We believe in learning by building real applications, collaborating with each other, and pushing ourselves to explore modern technologies and best practices.
+**Team Gamma Devs** is a student-led developer association based in Uruguay. We're a group of passionate developers dedicated to improving our programming skills through hands-on, innovative projects. We believe in learning by building real applications, collaborating with each other, and pushing ourselves to explore modern technologies and best practices.
 
 ---
 
@@ -23,7 +23,7 @@ We focus on building full-stack applications using modern web technologies and c
 
 ### Full-Stack Web Development
 
-We build complete web applications using **SvelteKit** and **Next.js** for the frontend, paired with **FastAPI** and **Python** on the backend. Our applications feature responsive designs with **Tailwind CSS**, ensuring they work seamlessly across all devices. We emphasize writing clean, maintainable code and following modern development practices.
+We build complete web applications using **SvelteKit** and **Next.js** for the frontend, paired with **Python's** **FastAPI** on the backend. Our applications feature responsive designs with **Tailwind CSS**, ensuring they work seamlessly across all devices. We emphasize writing clean, maintainable code and following modern development practices.
 
 ### AI & Automation
 
